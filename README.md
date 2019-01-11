@@ -1,2 +1,1 @@
-# peppa
-这是一个用Python 画的小猪佩琪
+这里会存放一些用Python画的画
